@@ -1,0 +1,41 @@
+# Site settings
+title: feedback.usa.gov
+description: "Feedback USA is a pilot program to improve customer experience where citizens use the federal government the most."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://feedback.usa.gov" # the base hostname & protocol for your site
+
+analytics:
+  google:
+    code: '' # Change this to your GSA analytics code
+  dap:
+    agency: GSA    # Change this to your agency
+    subagency: OPP # Change this to your agency
+
+defaults:
+ -
+  scope:
+    path: "" # an empty string here means all files in the project
+  values:
+    layout:
+      - home
+      - page
+      - "project-list"
+      - project
+      - "team-list"
+      - team
+
+# Build settings
+markdown: kramdown
+include:
+  - _navigation.json
+exclude:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md
+
+# Inititalize project and team collections
+collections:
+  projects:
+    output: true
+  team:
+    output: true
