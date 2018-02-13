@@ -38,44 +38,30 @@
 
 
             <div class="usa-navbar">
-                        <div class="usa-logo" id="logo">
-          <em class="usa-logo-text">
-            <a href="https://www.usa.gov" title="Home"><img src="https://www.usa.gov/sites/all/themes/usa/images/Logo_USA_Final.png" alt="USAGov Logo"/></a>
-          </em>
-        </div>                <button class="usa-menu-btn">Menu</button>
+
+              <div class="usa-logo" id="logo">
+                <em class="usa-logo-text">
+                  <a href="{{ site.baseurl }}" title="Home">
+                    <img src="{{ site.baseurl }}/assets/img/feedbackusa-logo.png" alt="Feedback USA Logo"/>
+                  </a>
+                </em>
+              </div>
+
+              <button class="usa-menu-btn">Menu</button>
             </div>
+
             <nav role="navigation" class="usa-nav">
                 <div class="usa-nav-inner">
-                            <div class="usa-nav-secondary">
-          <button class="usa-nav-close">Close</button>
-          <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small">
-            <div role="search">
-              <label class="usa-sr-only" for="search-field-small">Search</label>
-              <input id="affiliate" name="affiliate" type="hidden" value="usagov">
-              <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-              <button type="submit">
-                <span class="usa-sr-only">Search</span>
-              </button>
-            </div>
-          </form>
-          <ul class="usa-unstyled-list usa-nav-secondary-links">
-            <li class="js-search-button-container">
-              <button class="usa-header-search-button js-search-button">Search</button>
-            </li>
-            <li>
-              <a href="https://www.usa.gov/contact">Contact Us</a>
-            </li>
-            <li>
-              <a href="https://www.usa.gov/phone">1-844-USA-GOV1</a>
-            </li>
-          </ul>
-        </div>
-
-
-            <ul class="usa-nav-primary usa-accordion">
-                <li><a href="/">Home</a></li>
-            </ul>
-
+                  <div class="usa-nav-secondary">
+                    <button class="usa-nav-close">Close</button>
+                  </div>
+                  <ul class="usa-nav-primary usa-accordion">
+                      <li><a href="/">Home</a></li>
+                      <li><a href="/about">About</a></li>
+                      <li><a href="/faq">FAQ</a></li>
+                      <li><a href="/policies">Policies</a></li>
+                      <li><a href="/contact-us">Contact Us</a></li>
+                  </ul>
                 </div>
             </nav>
         </header>
