@@ -5,31 +5,27 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title }} &#124; feedback.USA.gov</title>
 
-
 <link rel="apple-touch-icon-precomposed" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon152_default.png">
 <link rel="icon" sizes="16x16" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon16.ico">
 <link rel="icon" sizes="32x32" href="https://www.usa.gov/sites/all/themes/usa/images/favicon.ico">
 <link rel="icon" sizes="152x152" href="https://www.usa.gov/sites/all/themes/usa/images/USA_Fav_Icon152_default.png">
 
-{% 
-    assign cache_bust = site.time | replace: ' ', '-' | replace: ':', '-' 
+{%
+    assign cache_bust = site.time | replace: ' ', '-' | replace: ':', '-'
 %}
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css?refresh={{ cache_bust }}">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/print.css" media="print" />
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/uswds.css">
 
 <style type="text/css" media="all">
 @import url("{{ site.baseurl }}/assets/css/google-fonts.css");
 </style>
 
-
 <script type="text/javascript" src="https://standards.usa.gov/assets/js/styleguide.js"></script>
 <script type="text/javascript" src="https://standards.usa.gov/assets/js/vendor/uswds.min.js"></script>
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/respond.js"></script>
-
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/platform.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/menu.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/states.js"></script>
@@ -38,6 +34,4 @@
 <!--[if lt IE 9]>
   <script src="https://standards.usa.gov/assets/js/vendor/html5shiv.js"></script>
 <![endif]-->
-
-
 </head>
