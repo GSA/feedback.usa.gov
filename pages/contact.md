@@ -7,4 +7,4 @@ permalink: /contact/
 
 We’d love to hear from you!
 
-Please contact us directly by emailing [info@feedback.usa.gov](mailto:info@feedback.usa.gov).
+Please contact us directly by emailing [feedback-analytics@gsa.gov](mailto:feedback-analytics@gsa.gov).
