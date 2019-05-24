@@ -5,7 +5,7 @@ title: "Policies"
 permalink: /policies/
 ---
 
-feedback.usa.gov doesn’t collect personal information when you visit our web site.
+The Feedback Analytics program doesn’t collect personal information when you visit our website.
 
 What’s on this page
 
@@ -59,4 +59,4 @@ feedback.usa.gov links to many websites created and maintained by other public a
 
 We do not collect personal information for any purpose.  Please do not submit any personal information (to include name, email address, home address, phone number, zip code, etc.) through feedback.usa.gov.  Any personal information submitted to feedback.usa.gov will be deleted upon entry.
 
-Please contact us directly with any questions by emailing [FeedbackUSA@gsa.gov](mailto:FeedbackUSA@gsa.gov).
+Please contact us directly with any questions by emailing Feedback-Analytics@gsa.gov](mailto:feedback-analytics@gsa.gov).

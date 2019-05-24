@@ -10,7 +10,7 @@ The Feedback Analytics Program develops and manages government-wide services tha
 ## Program Offerings
 Feedback Analytics products and services are offered at no cost to federal agencies.
 
-- Touchpoints, a GSA-developed customer experience evaluation tool
+- Touchpoints, a GSA-developed customer experience feedback tool
 - One-on-one customer support
 - Training on other customer experience management tools, such as Google Tag Manager
 
@@ -26,3 +26,11 @@ Feedback Analytics products and services are offered at no cost to federal agenc
 
 ### 2018-2019 Feedback Analytics Program MVP to 20 Agencies
  - A-11 Circular Compliance for [High Impact Service Providers](https://www.performance.gov/cx/HISPList.pdf) participating in [Cross Agency Priority Goal 4: Customer Experience](https://www.performance.gov/cx/)
+
+## Authorities
+
+- E-Government Act
+- 21st Century IDEA Act (2018)
+- Policies for Federal Agency Public Websites & Digital Services (M-17-06 / 2016)
+- Customer Experience CAP Goal, GPRA (2013-2017, 2018-2020)
+- OMB Circular No. A-11, Section 280 (2018 / 2019)
