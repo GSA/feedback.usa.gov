@@ -47,11 +47,11 @@ No, feedback is purely optional.  The Feedback USA kiosk and website do not coll
 
 ### Is the feedback anonymous?
 
-All public-provided feedback (via kiosk and website) is anonymous.  The kiosk and website do not ask for any Personally Identifiable Information (PII) and cannot be used to identify an individual person.  The government agencies participating in the pilot will only use public-provided feedback to improve their customer service.
+All public-provided feedback (via kiosk and website) is anonymous. The kiosk and website do not ask for any Personally Identifiable Information (PII) and cannot be used to identify an individual person.  The government agencies participating in the pilot will only use public-provided feedback to improve their customer service.
 
 ### How will the feedback collected be used?
 
-The government agencies participating in the pilot will only use public-provided feedback to improve their customer service.  GSA will partner with agencies to analyze the data and to develop action plans to improve customer service.
+The government agencies participating in the pilot will only use public-provided feedback to improve their customer service. GSA will partner with agencies to analyze the data and to develop action plans to improve customer service.
 
 ### Will the feedback data be open to the general public?
 

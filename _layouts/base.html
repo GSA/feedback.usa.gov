@@ -1,23 +1,20 @@
 <!doctype html>
 <html lang="en">
-
   {% include head.html %}
-
   <body class="{{ page.body-class }}">
-  <div class="usa-overlay"></div>
-
-    {% include header.html %}
-
-<main id="content" role="main">
-    <div class="container clearfix">
-
-     {{ content }}
-
-    </div>
-
-  </main>
-
-    {% include footer.html %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHFXLRX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <a href="#top"></a>
+    <div class="usa-overlay"></div>
+    {% include header2.html %}
+    <main id="content" role="main">
+      <div class="container clearfix">
+       {{ content }}
+      </div>
+    </main>
+    {% include footer2.html %}
     {% include javascript.html %}
   </body>
 </html>

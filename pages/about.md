@@ -5,6 +5,32 @@ title: "About"
 permalink: /about/
 ---
 
-Feedback USA is a pilot program to improve customer experience where citizens use the federal government the most. Customers applying at Department of State passport agencies/centers, SSA card centers, U.S. Citizen and Immigration Service Centers, VA benefit centers, and GSA’s Quantico base store will now get the chance to have their say.  Customers will be able to provide quick feedback through a less-than-a-second tap of a button at a kiosk, and can provide additional feedback through the agency’s website.  Agency partners will see this anonymous feedback in real time, so they can act quickly to resolve any issues and improve their services to the public.
+The Feedback Analytics Program develops and manages government-wide services that collect and report quantitative and qualitative customer feedback to aid service improvement and decision-making. This includes methods to evaluate progress toward achieving customer experience goals and inform continual improvements to service design and delivery.
 
-The initiative for Feedback USA is a part of an administration priority to improve customer service.  The Customer Service Cross Agency Priority Goal, established in 2014 is led by the Office of Management and Budget and SSA.  The pilot is scheduled to last for one year with quarterly phases to help evaluate usefulness.
+## Program Offerings
+Feedback Analytics products and services are offered at no cost to federal agencies.
+
+- Touchpoints, a GSA-developed customer experience feedback tool
+- One-on-one customer support
+- Training on other customer experience management tools, such as Google Tag Manager
+
+
+
+## History of the Feedback Analytics program
+
+### 2014-2017 feedback.usa.gov
+ - Launched customer feedback kiosks in **93** federal agency office locations in four agencies around the country.
+
+### 2017-2018 Feedback Analytics Program formation
+ - Product MVP collected user feedback on 8 web-based services across 6 agencies.
+
+### 2018-2019 Feedback Analytics Program MVP to 20 Agencies
+ - A-11 Circular Compliance for [High Impact Service Providers](https://www.performance.gov/cx/HISPList.pdf) participating in [Cross Agency Priority Goal 4: Customer Experience](https://www.performance.gov/cx/)
+
+## Authorities
+
+- E-Government Act
+- 21st Century IDEA Act (2018)
+- Policies for Federal Agency Public Websites & Digital Services (M-17-06 / 2016)
+- Customer Experience CAP Goal, GPRA (2013-2017, 2018-2020)
+- OMB Circular No. A-11, Section 280 (2018 / 2019)

@@ -1,6 +1,6 @@
 # Site settings
 title: feedback.usa.gov
-description: "Feedback USA is a pilot program to improve customer experience where citizens use the federal government the most."
+description: "Feedback Analytics helps agencies improve customer experience where citizens use the federal government the most."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://feedback.usa.gov" # the base hostname & protocol for your site
 
