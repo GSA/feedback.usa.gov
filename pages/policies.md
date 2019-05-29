@@ -59,4 +59,4 @@ feedback.usa.gov links to many websites created and maintained by other public a
 
 We do not collect personal information for any purpose.  Please do not submit any personal information (to include name, email address, home address, phone number, zip code, etc.) through feedback.usa.gov.  Any personal information submitted to feedback.usa.gov will be deleted upon entry.
 
-Please contact us directly with any questions by emailing [feedback-analytics@gsa.gov](mailto:feedback-analytics@gsa.gov).
+Please contact us directly with any questions by emailing [{{site.team_email}}](mailto:{{site.team_email}}).

@@ -3,6 +3,7 @@ title: feedback.usa.gov
 description: "Feedback Analytics helps agencies improve customer experience where citizens use the federal government the most."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://feedback.usa.gov" # the base hostname & protocol for your site
+team_email: "feedback-analytics@gsa.gov"
 
 analytics:
   google:
