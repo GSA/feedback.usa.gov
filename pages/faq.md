@@ -11,8 +11,11 @@ permalink: /faq/
 ### What is Touchpoints?
 
 Touchpoints is an
-[open-source](https://github.com/GSA/touchpoints)
-software application created and maintained by [GSA](https://gsa.gov/?) that enables government agencies to solicit and process user feedback to support the continuous improvement of public systems, services, processes, and policies.
+[open-source](https://github.com/GSA/touchpoints) software application
+created and maintained by [GSA](https://gsa.gov/).
+Touchpoints enables government agencies to solicit and process user feedback
+to support the continuous improvement of
+public systems, services, processes, and policies.
 
 ### How do I get access to Touchpoints?
 
