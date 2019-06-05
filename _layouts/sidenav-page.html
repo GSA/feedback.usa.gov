@@ -6,23 +6,22 @@ layout: base
   <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
     <nav>
       <ul class="usa-sidenav-list">
-        <li>
-          <a href="" class="usa-current">
-            FAQ
-          </a>
-          <ul class="usa-sidenav-sub_list">
+        <a href="" class="usa-current">
+          {{page.nav_current_title}}
+        </a>
+        <ul class="usa-sidenav-sub_list">
+        {% for item in site.data.navbar.menu %}
+          {% if page.nav_id == item.id %}
+            {% for entry in item.children %}
             <li>
-              <a href="#touchpoints">
-                Touchpoints
+              <a class="usa-nav-link" href="{{entry.href}}">
+                <span>{{entry.text}}</span>
               </a>
             </li>
-            <li>
-              <a href="#feedback-data">
-                Feedback Data
-              </a>
-            </li>
-          </ul>
-        </li>
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+        </ul>
       </ul>
     </nav>
   </aside>
