@@ -21,8 +21,19 @@ Feedback Analytics products and services are offered at no cost to federal agenc
 ### 2014-2017 feedback.usa.gov
  - Launched customer feedback kiosks in **93** federal agency office locations in four agencies around the country.
 
+ The pilot was scheduled to last for approximately one (1) calendar year beginning July 2015.
+ The pilot consisted of four (4) three (3) month phases.
+
+ Participating agencies included:
+
+ The U.S. Department of State (DOS), The United States Social Security Administration (SSA), Transportation Security Administration (TSA), and U.S. Department of Veterans Affairs (VA) are participating in this pilot.
+
+ The DOS pilot collected feedback from citizens visiting passport facilities to receive passports or visa support services. The SSA pilot collected feedback from citizens visiting card centers to receive social security card support services. The TSA pilot collected transactional feedback from citizens passing through TSA security screening checkpoints at Reagan National Airport (DCA), Los Angeles International Airport (LAX), LaGuardia Airport (LGA), and San Francisco International Airport (SFO).
+
 ### 2017-2018 Feedback Analytics Program formation
  - Product MVP collected user feedback on 8 web-based services across 6 agencies.
+ - The Feedback Program became staffed full-time,
+ chartered to strategically support Customer Experience initiatives.
 
 ### 2018-2019 Feedback Analytics Program MVP to 20 Agencies
  - A-11 Circular Compliance for [High Impact Service Providers](https://www.performance.gov/cx/HISPList.pdf) participating in [Cross Agency Priority Goal 4: Customer Experience](https://www.performance.gov/cx/)
