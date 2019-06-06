@@ -1,41 +1,5 @@
 <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-<section class="usa-banner">
-  <div class="usa-accordion">
-    <header class="usa-banner-header">
-      <div class="usa-grid usa-banner-inner">
-        <img src="/assets/img/favicons/favicon-57.png" alt="U.S. flag">
-        <p>An official website of the United States government</p>
-        <button class="usa-accordion-button usa-banner-button"
-        aria-expanded="false" aria-controls="gov-banner">
-        <span class="usa-banner-button-text">Here's how you know</span>
-      </button>
-    </div>
-  </header>
-  <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
-    <div class="usa-banner-guidance-gov usa-width-one-half">
-      <img class="usa-banner-icon usa-media_block-img" src="/assets/img/icon-dot-gov.svg" alt="Dot gov">
-      <div class="usa-media_block-body">
-        <p>
-          <strong>The .gov means it’s official.</strong>
-          <br>
-          Federal government websites often end in .gov or .mil.
-          Before sharing sensitive information, make sure you’re on a federal government site.
-        </p>
-      </div>
-    </div>
-    <div class="usa-banner-guidance-ssl usa-width-one-half">
-      <img class="usa-banner-icon usa-media_block-img" src="/assets/img/icon-https.svg" alt="Https">
-      <div class="usa-media_block-body">
-        <p>
-          <strong>The site is secure.</strong>
-          <br>
-          The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
+{% include usa-banner.html %}
 
 <header class="usa-header usa-header-extended" role="banner">
   <div class="usa-navbar">
@@ -44,7 +8,7 @@
         <a href="/"
         title="Home"
         aria-label="Home">
-        <img class="homepage-logo" src="{{ site.baseurl }}/assets/img/feedbackusa-logo-full.png" alt="Feedback USA Logo" style="max-width: 180px;" />
+        Feedback Analytics
       </a>
     </em>
   </div>
@@ -57,63 +21,14 @@
       <img src="/assets/img/close.svg" alt="close">
     </button>
     <ul class="usa-nav-primary usa-accordion">
-      <li>
-        <a class="usa-nav-link" href="/about">
-          <span>About</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/policies">
-          <span>Policies</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/faq">
-          <span>FAQ</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/design">
-          <span>Service Design</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/features">
-          <span>Features</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/contact">
-          <span>Contact</span>
-        </a>
-      </li>
+      {% for item in site.data.navbar.menu %}
+        <li>
+          <a class="usa-nav-link" href="{{item.href}}">
+            <span>{{item.text}}</span>
+          </a>
+        </li>
+      {% endfor %}
     </ul>
-    <div class="usa-nav-secondary">
-      <form class="usa-search usa-search-small  js-search-form">
-        <div role="search">
-          <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-          <input id="extended-search-field-small" type="search" name="search">
-          <button type="submit">
-            <span class="usa-sr-only">Search</span>
-          </button>
-        </div>
-      </form>
-      <ul class="usa-unstyled-list usa-nav-secondary-links">
-        <li class="js-search-button-container">
-          <button class="usa-header-search-button js-search-button">Search</button>
-        </li>
-        <li>
-          <a href="/users/sign_up">
-            Sign up
-          </a>
-        </li>
-        <li>
-          <a href="/users/sign_in">
-            Sign in
-          </a>
-        </li>
-      </ul>
-    </div>
   </div>
 </nav>
 </header>
