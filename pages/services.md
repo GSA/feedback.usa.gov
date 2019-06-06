@@ -2,76 +2,40 @@
 layout: sidenav-page
 nav_id: services
 body-class: page
-title: "Feedback Analytics Program"
-nav_current_title: "Program"
+title: "Feedback Analytics Program Services"
+nav_current_title: "Services"
 permalink: /services/
 ---
 
-# Feedback Analytics Program
-
-<a id="about"></a>
-### About
-The Feedback Analytics program is chartered
-to gather transactional data from citizens
-interacting with the government
-and share that data with agencies in real-time
-so they can use the feedback to improve program delivery.
-The Feedback Analytics program is located
-within the Data and Analytics Portfolio
-in the GSA [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs).
-
-The Feedback Analytics program provides
-the following shared services
-to other federal government agencies:
-
-* Feedback Analytics services and support
-* Touchpoints product development and support
 
 <a id="consultation"></a>
-### Working with the Feedback Analytics team
 
-The Feedback Analytics team supports
-federal agency Customer Experience (CX) goals
-about improving public service delivery
-by providing the following professional services.
-
-  * Service Design, Journey Mapping
-  * Instrumenting Analytics & Modeling Events
-  * (Public Records Act) PRA support and coordination
-  * Assistance and guidance with Customer Experience (CX) Reporting
-
-<a href="mailto:{{site.team_email}}">
-  Get in touch</a> if you're working on A-11 CAP Goal,
-a public customer experience initiative.
+The Feedback Analytics team is here to support federal agency staff working on Customer Experience (CX) goals
+ public service delivery by providing the following professional products and services.
+Our products and services are offered at **no cost** to federal agencies.
 
 <a id="touchpoints"></a>
+
 ### Touchpoints
 
+  * Touchpoints is an
+    [open-source](https://github.com/gsa/touchpoints) software tool designed to enable easy management of
+    customer experience feedback, built and operated by the Feedback Analytics team.
 
-Touchpoints is an
-[open-source](https://github.com/gsa/touchpoints) software tool
-to enable easy, PRA-compliant management of
-customer experience feedback.
-The Feedback Analytics team builds and operates
-the open-source product,
-Ongoing product work includes:
+    * Touchpoints training <!-- app link to go live after ATO -->
+    * User demos, onboarding, & support
+    * Training on other customer experience management tools, such as Google Tag Manager
+    * New survey development (need a custom form? we'll build it!)
 
-The Feedback Analytics team builds and operates
-the open-source product, Touchpoints to enable
-easy, compliant customer experience feedback.
-Ongoing product work includes:
+  <a href="mailto:{{site.team_email}}">
+    Contact us</a> to learn more about Touchpoints.
 
-* Product management
-* Agile software development
-* [Touchpoints](https://touchpoints.app.cloud.gov) training
-* User demos and support
+### Services
 
-<a href="mailto:{{site.team_email}}">
-  Contact us</a> if you'd like to learn more about Touchpoints.
+  * Instrumenting Service Analytics & Event Modeling
+  * Compliance support for the Paperwork Reduction Act (PRA)
+  * Developing _actionable_ analysis & reporting on Customer Experience (CX)
 
-<a id="team"></a>
-### Who is the Team?
 
-* Lauren Ancona - Program Manager, Product Owner
-* Ryan Wold - Product Lead, Developer
-* Maria Lynne Dayton - Presidential Innovation Fellow (CX)
+  <a href="mailto:{{site.team_email}}">
+    Get in touch</a> if you're working to deploy the A-11 survey in support of the [Customer Experience Cross Agency Priority (CAP) Goal 4](https://performance.gov/cx), part of the [President's Management Agenda](https://www.performance.gov/PMA/PMA.html).
