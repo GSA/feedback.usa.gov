@@ -7,37 +7,19 @@ menu:
         show_in_menu: false
         show_in_footer: false
     -
-        text: Feedback Program
+        text: About
+        id: about
+        href: /about
+        permalink: /about/
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: Services
         id: services
         href: /services
         permalink: /services/
         show_in_menu: true
         show_in_footer: false
-        children:
-            -
-                text: 'About the program'
-                id: services-about
-                href: '#about'
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Working with the Feedback Analytics team'
-                id: services-consultation
-                href: '#consultation'
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Touchpoints product'
-                id: services-touchpoints
-                href: '#touchpoints'
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'The team'
-                id: services-team
-                href: '#team'
-                show_in_menu: false
-                show_in_footer: false
     -
         text: FAQ
         id: faq
