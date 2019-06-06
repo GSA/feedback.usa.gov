@@ -1,42 +1,67 @@
-assigned:
+menu:
     -
         text: Home
-        href: pages/home.md
+        id: home
+        href: /
         permalink: /
         show_in_menu: false
         show_in_footer: false
     -
-        text: About
-        href: pages/about.md
-        permalink: /about/
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: Work
-        href: pages/projects.md
-        permalink: /projects/
+        text: Feedback Program
+        id: services
+        href: /services
+        permalink: /services/
         show_in_menu: true
         show_in_footer: false
         children:
             -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
+                text: 'About the program'
+                id: services-about
+                href: '#about'
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
+                text: 'Working with the Feedback Analytics team'
+                id: services-consultation
+                href: '#consultation'
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Touchpoints product'
+                id: services-touchpoints
+                href: '#touchpoints'
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'The team'
+                id: services-team
+                href: '#team'
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Team'
-        href: pages/team.md
-        permalink: /team/
+        text: FAQ
+        id: faq
+        href: /faq
+        permalink: /faq/
         show_in_menu: true
         show_in_footer: false
+        children:
+            -
+                text: 'Touchpoints'
+                id: faq-touchpoints
+                href: '#touchpoints'
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Feedback Data'
+                id: faq-data
+                href: '#feedback-data'
+                show_in_menu: false
+                show_in_footer: false
     -
-        text: 'Project data'
-        href: _data/projects.yml
+        text: Contact
+        id: contact
+        href: /contact
+        permalink: /contact
         show_in_menu: false
         show_in_footer: false
-unassigned: []

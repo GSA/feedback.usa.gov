@@ -21,16 +21,13 @@
       <img src="/assets/img/close.svg" alt="close">
     </button>
     <ul class="usa-nav-primary usa-accordion">
-      <li>
-        <a class="usa-nav-link" href="/contact">
-          <span>Contact</span>
-        </a>
-      </li>
-      <li>
-        <a class="usa-nav-link" href="/faq">
-          <span>FAQ</span>
-        </a>
-      </li>
+      {% for item in site.data.navbar.menu %}
+        <li>
+          <a class="usa-nav-link" href="{{item.href}}">
+            <span>{{item.text}}</span>
+          </a>
+        </li>
+      {% endfor %}
     </ul>
   </div>
 </nav>

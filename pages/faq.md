@@ -2,6 +2,8 @@
 layout: sidenav-page
 body-class: page
 title: "Frequently Asked Questions"
+nav_id: faq
+nav_current_title: FAQ
 permalink: /faq/
 ---
 
