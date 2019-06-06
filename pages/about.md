@@ -5,7 +5,7 @@ title: "About"
 permalink: /about/
 ---
 
-The Feedback Analytics Program develops and manages government-wide services that collect and report quantitative and qualitative customer feedback to aid service improvement and decision-making. This includes establishing methods to evaluate progress toward achieving goals, and supporting continuous, iterative improvements to service design and delivery.
+The Feedback Analytics Program develops and manages government-wide services that collect and report quantitative and qualitative customer feedback. This includes developing methods to evaluate progress and supporting continuous, iterative improvements to service design and delivery.
 
 The Feedback Analytics program is part of the [Data and Analytics Portfolio](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP) in the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), a subdivision of GSA's [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services).
 
