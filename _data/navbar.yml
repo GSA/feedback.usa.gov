@@ -39,6 +39,13 @@ menu:
                 show_in_menu: false
                 show_in_footer: false
     -
+        text: Glossary
+        id: faq
+        href: /glossary
+        permalink: /glossary/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: FAQ
         id: faq
         href: /faq
