@@ -48,7 +48,7 @@ Touchpoints focuses on providing easy-to-use PRA-friendly feedback forms. If you
 
 ### How options do I have for sharing a Touchpoint form with customers?
 
-* Share a public Touchpoints URL (see an [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/1/submit))
+* Share a public Touchpoints URL (see a [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/1/submit))
 * javascript embed:
   * render tab that pops a modal with the Form
   * render the Form inline in a page (coming soon)
