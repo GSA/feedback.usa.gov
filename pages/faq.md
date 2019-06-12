@@ -99,6 +99,10 @@ If your Agency needs access to Touchpoints, please
 The Feedback Analytics team is handling the
 PRA for the initial HISP A11 rollout.
 
+### What if a customer says something bad about our Agency?
+
+While not necessarily pleasant, negative feedback can be good fuel for process improvement & improving service delivery. Capturing data that reflects the customer’s voice can be an excellent resource for gaining insight into workflow issues while highlighting opportunities to improve. The Feedback Analytics program exists to help transform customer feedback data into a strategic asset.
+
 ### Will I be able to see my A-11 form submission data before it’s released to OMB?
 
 Yes. Submissions are managed and reviewed by authorized Service Managers.
