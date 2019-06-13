@@ -19,6 +19,17 @@ Touchpoints enables government agencies to solicit and process user feedback
 to support the continuous improvement of
 public systems, services, processes, and policies.
 
+### Who can use Touchpoints?
+
+Touchpoints is designed for federal government staff
+supporting CX initiatives to easily gather feedback
+from public customers for the purposes of improving
+customer service delivery.
+
+Touchpoints is also designed so public customers
+can provide feedback to agencies by responding to
+easy-to-use online forms.
+
 ### How do I get access to Touchpoints?
 
 [Contact](/contact)
@@ -92,7 +103,7 @@ and existing CRM system used in customer support call centers.
 
 Sign up and start testing today.
 If your Agency needs access to Touchpoints, please
-<a href="mailto:{{site.team_email}}">contact the team</a> for more information.
+<a href="/contact">contact the team</a> for more information.
 
 ### Who manages the PRA for Forms in Touchpoints?
 
