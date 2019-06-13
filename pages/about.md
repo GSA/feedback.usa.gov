@@ -16,6 +16,15 @@ The Feedback Analytics program is part of the [Data and Analytics Portfolio](htt
 - Training on other customer experience management tools, such as Google Tag Manager
 
 
+## Program Offerings
+Feedback Analytics products and services are offered at no cost to federal agencies.
+
+- Touchpoints, a GSA-developed customer experience evaluation tool
+- One-on-one customer support
+- Training on other customer experience management tools, such as Google Tag Manager
+
+
+
 ## History of the Feedback Analytics program
 
 ### 2014-2017 feedback.usa.gov

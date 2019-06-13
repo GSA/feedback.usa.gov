@@ -9,10 +9,7 @@ permalink: /services/
 
 
 <a id="consultation"></a>
-
-The Feedback Analytics team is here to support federal agency staff working on Customer Experience (CX) goals
- public service delivery by providing the following professional products and services.
-Our products and services are offered at **no cost** to federal agencies.
+The Feedback Analytics team develops products and services to support federal agency staff working on Customer Experience (CX) goals to improve public service delivery, offered at **no cost** to federal agencies. 
 
 <a id="touchpoints"></a>
 
