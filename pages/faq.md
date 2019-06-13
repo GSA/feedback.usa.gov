@@ -48,24 +48,6 @@ The public has the option to submit feedback online via a mobile-friendly websit
   </div>
 </div>
 
-### What feedback forms does Touchpoints offer?
-
-* A11 Form
-* Open-ended feedback form
-* More to come
-
-Touchpoints focuses on providing easy-to-use PRA-friendly feedback forms. If you have a need for different form, please
-<a href="mailto:{{site.team_email}}">contact us</a>.
-
-### How options do I have for sharing a Touchpoint form with customers?
-
-* Share a public Touchpoints URL (see a [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/1/submit))
-* javascript embed:
-  * render tab that pops a modal with the Form
-  * render the Form inline in a page (coming soon)
-
-A common way to deploy a Touchpoint is deploy to use Google Tag Manager ([learn how](https://github.com/GSA/touchpoints/wiki/Deploying-a-Touchpoint-via-GTM)).
-
 ### Is the feedback anonymous?
 
 Touchpoints forms that do not ask for any Personally Identifiable Information (PII) cannot be used to identify an individual.
@@ -87,7 +69,8 @@ Under guidance from 2018 A-11 Circular, High Impact Service Providers (HISPs) pa
 
 English is the only language available at this time.
 
-# For Touchpoints staff users
+<a name="cx"></a>
+## Common CX CAP Goal questions
 
 ### Can we use Touchpoints if we don’t have any customer experience staff or IT resources?
 
@@ -104,6 +87,24 @@ and existing CRM system used in customer support call centers.
 Sign up and start testing today.
 If your Agency needs access to Touchpoints, please
 <a href="/contact">contact the team</a> for more information.
+
+### What feedback forms does Touchpoints offer?
+
+* A11 Form
+* Open-ended feedback form
+* More to come
+
+Touchpoints focuses on providing easy-to-use PRA-friendly feedback forms. If you have a need for different form, please
+<a href="mailto:{{site.team_email}}">contact us</a>.
+
+### How options do I have for sharing a Touchpoint form with customers?
+
+* Share a public Touchpoints URL (see a [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/1/submit))
+* javascript embed:
+  * render tab that pops a modal with the Form
+  * render the Form inline in a page (coming soon)
+
+A common way to deploy a Touchpoint is deploy to use Google Tag Manager ([learn how](https://github.com/GSA/touchpoints/wiki/Deploying-a-Touchpoint-via-GTM)).
 
 ### Who manages the PRA for Forms in Touchpoints?
 
@@ -123,3 +124,7 @@ before taking advantage of easy CX reporting to performance.gov.
 ### Can we filter out invalid or duplicate Submissions when reporting Submissions?
 
 Authorized staff can flag invalid entries. eg: spam and feedback abuse
+
+### How can we get started or improve incorporating feedback into our products and services?
+
+[Contact](/contact) the Feedback Analytics team to learn more. 
