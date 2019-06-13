@@ -58,6 +58,12 @@ menu:
                 href: '#feedback-data'
                 show_in_menu: false
                 show_in_footer: false
+            -
+                text: 'CX CAP Goal'
+                id: faq-cx
+                href: '#cx'
+                show_in_menu: false
+                show_in_footer: false
     -
         text: Contact
         id: contact
