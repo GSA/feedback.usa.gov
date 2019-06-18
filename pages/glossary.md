@@ -1,13 +1,11 @@
 ---
-layout: sidenav-page
+layout: page
 body-class: page
 title: "Glossary"
 permalink: /glossary/
 ---
 
-## {{page.title}}
-
-This page describes some of the domain-specific
+This page describes domain-specific
 terminology used when designing or re-designing Public Services,
 and when working with the Touchpoints product.
 
@@ -38,16 +36,15 @@ and when working with the Touchpoints product.
   * Variable - a variable defined with GTM that can be re-used within GTM
 
 ### Delivering a Touchpoint via Email
-* URL Parameters
+
+* location_code - The URL parameter `?location_code=` can be used to identify what location a Submission relates to, if a a single Touchpoint is deployed for a service that spans multiple Locations.
 
 ### Reporting on websites and Public Services (service designed services)
 
-* Analytics - includes general website analytics
-  * Events - a specific interaction or event fired from a webpage. Typically, on button click or page event
-  * Goals
-    * a sequence or combination of events to trigger
-  * Conversions
-    * measurement regarding a specific goal. For examples: 1) 50% of users who click through to Sign Up, complete the Sign Up, or 2) 10% open-rate for emails
+* Analytics - includes general website analytics (like DAP) and Service Design analytics
+* Events - a specific interaction or event fired from a webpage. Typically, on button click or page event
+* Goals - a sequence or combination of events to trigger
+* Conversions - measurement regarding a specific goal. For examples: 1) 50% of users who click through to Sign Up, complete the Sign Up, or 2) 10% open-rate for emails
 
 ### Organizational Maps & Artifacts
 
@@ -69,3 +66,13 @@ but are not to be confused with the territory itself.
 * Journey Map - a user-centric description of events across a given "Journey"; for example; the sequenced steps and obvservations of a user when signing up for a Vehicle Registration
 * Wardley Map - a value stream mapped across product/service maturity
 * Concept Model - a node graph of concepts
+
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">
+      View Touchpoints documentation to learn more about
+      <a href="https://github.com/GSA/touchpoints/blob/master/docs/DATA_MODEL.md" target="_blank" rel="noopener">Data Model</a>  
+      and more.
+    </p>
+  </div>
+</div>
