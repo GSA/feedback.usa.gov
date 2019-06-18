@@ -39,6 +39,13 @@ menu:
                 show_in_menu: false
                 show_in_footer: false
     -
+        text: Touchpoints
+        id: touchpoints
+        href: /touchpoints
+        permalink: /touchpoints/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: Glossary
         id: faq
         href: /glossary
