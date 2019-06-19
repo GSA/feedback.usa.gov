@@ -17,7 +17,7 @@ The Feedback Analytics team develops products and services to support federal ag
 
   * Touchpoints is an
     [open-source](https://github.com/gsa/touchpoints) software tool designed to enable easy management of
-    customer experience feedback, built and operated by the Feedback Analytics team.
+    customer experience feedback, built and operated by the Feedback Analytics team. Support for Touchpoints includes:
 
     * Touchpoints training <!-- app link to go live after ATO -->
     * User demos, onboarding, & support
