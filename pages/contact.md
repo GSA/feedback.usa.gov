@@ -5,8 +5,8 @@ title: "Contact Us"
 permalink: /contact/
 ---
 
-Please contact us if you have any questions about Service Design Analytics or Touchpoints. We will do our best to response
-within 2 business days.
+Please contact us if you have any questions about Service Design Analytics or Touchpoints.
+We will do our best to respond within 2 business days.
 
 <div id="touchpoint-contact-form"></div>
 
