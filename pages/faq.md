@@ -30,14 +30,14 @@ Touchpoints is also designed so public customers
 can provide feedback to agencies by responding to
 easy-to-use online forms.
 
+### How can Touchpoints be used?
+
+Review Touchpoints' [Terms of Service](/assets/files/touchpoints_tos_071919.pdf)
+
 ### How do I get access to Touchpoints?
 
 [Contact](/contact)
 the Feedback Analytics team to setup a Demo today.
-
-### How does the public submit feedback?
-
-The public has the option to submit feedback online via a mobile-friendly website.
 
 <a name="feedback-data"></a>
 <div class="usa-alert usa-alert-info">
@@ -63,7 +63,7 @@ The government agencies participating in the program will only use your feedback
 ### Who can see my feedback?
 
 Feedback submitted via Touchpoints is accessible by the authorized staff of participating agencies.
-Under guidance from 2018 A-11 Circular, High Impact Service Providers (HISPs) participating in the Customer Experience Cross Agency Priority Goal, part of the President's Management Agenda, collect anonymous customer experience scores that are aggregated at the service level and publicly available at [performance.gov/cx](https://performance.gov/cx).
+Under guidance from 2018 A-11 Circular, High Impact Service Providers (HISPs) participating in the Customer Experience Cross Agency Priority Goal, part of the President's Management Agenda, anonymous customer experience scores will be aggregated at the service level and publicly available at [performance.gov/cx](https://performance.gov/cx).
 
 ### What languages are available for the public to submit feedback?
 
@@ -80,7 +80,7 @@ Yes! The Feedback Program is here to help you.
 ### Can we use Touchpoints if we only have in-person (non-web) services?
 
 Yes, a common way to share a Touchpoint form with a customer is to provide the URL link to a Touchpoint from
-and existing CRM system used in customer support call centers.
+and existing CRM system used in customer support call centers. Another method is to provide a tablet device with a Touchpoints survey available to collect feedback from customers visiting physical office locations.
 
 ### How long does it take to start collecting customer feedback using Touchpoints?
 
@@ -127,4 +127,4 @@ Authorized staff can flag invalid entries. eg: spam and feedback abuse
 
 ### How can we get started or improve incorporating feedback into our products and services?
 
-[Contact](/contact) the Feedback Analytics team to learn more. 
+[Contact](/contact) the Feedback Analytics team to learn more.

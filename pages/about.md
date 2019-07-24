@@ -47,10 +47,16 @@ Feedback Analytics products and services are offered at no cost to federal agenc
 ### 2018-2019 Feedback Analytics Program MVP to 20 Agencies
  - A-11 Circular Compliance for [High Impact Service Providers](https://www.performance.gov/cx/HISPList.pdf) participating in [Cross Agency Priority Goal 4: Customer Experience](https://www.performance.gov/cx/)
 
+# Feedback Analytics conducts its work under the following Authorities and Executive Orders:
+
 ## Authorities
 
-- E-Government Act
+- E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501)
+  - Authorizes GSA's collection of contact information
 - 21st Century IDEA Act (2018)
 - Policies for Federal Agency Public Websites & Digital Services (M-17-06 / 2016)
 - Customer Experience CAP Goal, GPRA (2013-2017, 2018-2020)
 - OMB Circular No. A-11, Section 280 (2018 / 2019)
+
+## Executive Orders
+- [Executive Order 13571, "Streamlining Service Delivery and Improving Customer Service" (2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf), Section 2B, which directs agencies to “establish mechanisms to solicit customer feedback on government services and use such feedback regularly to make service improvements”.

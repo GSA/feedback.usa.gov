@@ -5,6 +5,9 @@ title: "Contact Us"
 permalink: /contact/
 ---
 
-We’d love to hear from you!
+Please contact us if you have any questions about Service Design Analytics or Touchpoints. We will do our best to response
+within 2 business days.
 
-Please contact us directly by emailing [{{site.team_email}}](mailto:{{site.team_email}}).
+<div id="touchpoint-contact-form"></div>
+
+<script src="https://touchpoints.app.cloud.gov/touchpoints/2/js" defer></script>    
