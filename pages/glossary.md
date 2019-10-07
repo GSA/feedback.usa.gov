@@ -70,7 +70,7 @@ but are not to be confused with the territory itself.
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <p class="usa-alert-text">
-      View Touchpoints documentation to learn more about
+      View Touchpoints documentation to learn about the
       <a href="https://github.com/GSA/touchpoints/blob/master/docs/DATA_MODEL.md" target="_blank" rel="noopener">Data Model</a>  
       and more.
     </p>
