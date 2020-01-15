@@ -32,7 +32,7 @@ easy-to-use online forms.
 
 ### How can Touchpoints be used?
 
-Review Touchpoints' [Terms of Service](/assets/files/touchpoints_tos.pdf)
+Review Touchpoints' [Terms of Service](https://touchpoints.app.cloud.gov/terms)
 
 ### How do I get access to Touchpoints?
 
