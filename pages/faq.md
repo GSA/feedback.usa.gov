@@ -80,7 +80,7 @@ Yes! The Feedback Program is here to help you.
 ### Can we use Touchpoints if we only have in-person (non-web) services?
 
 Yes, a common way to share a Touchpoint form with a customer is to provide the URL link to a Touchpoint from
-and existing CRM system used in customer support call centers. Another method is to provide a tablet device with a Touchpoints survey available to collect feedback from customers visiting physical office locations.
+an existing CRM system used in customer support call centers. Another method is to provide a tablet device with a Touchpoints survey available to collect feedback from customers visiting physical office locations.
 
 ### How long does it take to start collecting customer feedback using Touchpoints?
 
