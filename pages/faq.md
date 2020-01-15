@@ -90,7 +90,7 @@ If your Agency needs access to Touchpoints, please
 
 ### What feedback forms does Touchpoints offer?
 
-* A11 Form
+* A-11 Form
 * Open-ended feedback form
 * More to come
 
@@ -109,7 +109,7 @@ A common way to deploy a Touchpoint is deploy to use Google Tag Manager ([learn 
 ### Who manages the PRA for Forms in Touchpoints?
 
 The Feedback Analytics team is handling the
-PRA for the initial HISP A11 rollout.
+PRA for the initial HISP A-11 rollout.
 
 ### What if a customer says something bad about our Agency?
 
