@@ -7,9 +7,10 @@ nav_current_title: "Services"
 permalink: /services/
 ---
 
-
 <a id="consultation"></a>
-The Feedback Analytics team develops products and services to support federal agency staff working on Customer Experience (CX) goals to improve public service delivery, offered at **no cost** to federal agencies.
+The Feedback Analytics team develops products and provides services
+to support federal agency staff working on Customer Experience (CX) goals
+to improve public service delivery, offered at **no cost** to federal agencies.
 
 <a id="touchpoints"></a>
 
@@ -17,14 +18,13 @@ The Feedback Analytics team develops products and services to support federal ag
 
   * [Touchpoints](https://touchpoints.digital.gov) is an
     open-source software tool designed to enable easy management of customer experience feedback.
-    Customer support for Touchpoints includes:
+    Touchpoints Customer support includes:
 
-    * Product demos, onboarding, and helpdesk support
+    * Product demos & assistance getting started
     * New survey development
+    * Helpdesk support
 
-  <a href="mailto:{{site.team_email}}">
-    Contact us</a> to learn more about Touchpoints.
-
+<a id="services"></a>
 ### Services
 
   * Instrumenting Service Analytics & Event Modeling

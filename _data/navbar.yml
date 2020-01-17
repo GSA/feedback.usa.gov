@@ -21,15 +21,15 @@ menu:
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Touchpoints product'
+                text: 'Touchpoints'
                 id: services-touchpoints
                 href: '#touchpoints'
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'The team'
+                text: 'Services'
                 id: services-team
-                href: '#team'
+                href: '#services'
                 show_in_menu: false
                 show_in_footer: false
     -
