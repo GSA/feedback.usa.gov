@@ -6,9 +6,9 @@ permalink: /contact/
 ---
 
 
-Please contact us if you have any questions about Service Design Analytics or Touchpoints.
+Please contact us if you have any questions about Service Design Analytics.
 We will do our best to respond within 2 business days.
 
 <div id="touchpoint-contact-form"></div>
 
-<script src="https://touchpoints.app.cloud.gov/touchpoints/2/js" defer></script>    
+<script src="https://touchpoints.app.cloud.gov/touchpoints/45/js" defer></script>    

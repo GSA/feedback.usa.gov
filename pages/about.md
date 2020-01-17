@@ -11,7 +11,7 @@ The Feedback Analytics program is part of the [Data and Analytics Portfolio](htt
 
 ## Program Offerings
 
-- Touchpoints, an open source customer experience feedback tool
+- [Touchpoints](https://touchpoints.digital.gov), an open source customer experience feedback tool
 - One-on-one customer training & support
 - Training on other customer experience management tools, such as Google Tag Manager
 
