@@ -71,7 +71,7 @@ but are not to be confused with the territory itself.
   <div class="usa-alert-body">
     <p class="usa-alert-text">
       View Touchpoints documentation to learn about the
-      <a href="https://github.com/GSA/touchpoints/blob/master/docs/DATA_MODEL.md" target="_blank" rel="noopener">Data Model</a>  
+      <a href="https://github.com/GSA/touchpoints/wiki/Data-Model" target="_blank" rel="noopener">Data Model</a>  
       and more.
     </p>
   </div>

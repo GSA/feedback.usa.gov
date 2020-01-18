@@ -32,7 +32,7 @@ easy-to-use online forms.
 
 ### How can Touchpoints be used?
 
-Review Touchpoints' [Terms of Service](/assets/files/touchpoints_tos.pdf)
+Review Touchpoints' [Terms of Service](https://touchpoints.digital.gov/terms.html)
 
 ### How do I get access to Touchpoints?
 
@@ -80,7 +80,7 @@ Yes! The Feedback Program is here to help you.
 ### Can we use Touchpoints if we only have in-person (non-web) services?
 
 Yes, a common way to share a Touchpoint form with a customer is to provide the URL link to a Touchpoint from
-and existing CRM system used in customer support call centers. Another method is to provide a tablet device with a Touchpoints survey available to collect feedback from customers visiting physical office locations.
+an existing CRM system used in customer support call centers. Another method is to provide a tablet device with a Touchpoints survey available to collect feedback from customers visiting physical office locations.
 
 ### How long does it take to start collecting customer feedback using Touchpoints?
 
@@ -90,7 +90,7 @@ If your Agency needs access to Touchpoints, please
 
 ### What feedback forms does Touchpoints offer?
 
-* A11 Form
+* A-11 Form
 * Open-ended feedback form
 * More to come
 
@@ -99,7 +99,7 @@ Touchpoints focuses on providing easy-to-use PRA-friendly feedback forms. If you
 
 ### How options do I have for sharing a Touchpoint form with customers?
 
-* Share a public Touchpoints URL (see a [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/1/submit))
+* Share a public Touchpoints URL (see a [Demo example](https://touchpoints-demo.app.cloud.gov/touchpoints/53/submit))
 * javascript embed:
   * render tab that pops a modal with the Form
   * render the Form inline in a page (coming soon)
@@ -109,7 +109,7 @@ A common way to deploy a Touchpoint is deploy to use Google Tag Manager ([learn 
 ### Who manages the PRA for Forms in Touchpoints?
 
 The Feedback Analytics team is handling the
-PRA for the initial HISP A11 rollout.
+PRA for the initial HISP A-11 rollout.
 
 ### What if a customer says something bad about our Agency?
 
