@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body class="{{ page.body-class }}">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.analytics.google.code }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <a href="#top"></a>
+    <div class="usa-overlay"></div>
+    <main id="content" role="main">
+      <br>
+      <div class="container clearfix">
+        {{ content }}
+      </div>
+    </main>
+    {% include javascript.html %}
+  </body>
+</html>

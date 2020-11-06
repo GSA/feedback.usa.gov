@@ -5,9 +5,8 @@ title: "Contact Us"
 permalink: /contact/
 ---
 
-
-Please contact us if you have any questions about Service Design Analytics.
-We will do our best to respond within 2 business days.
+Please [contact us](mailto: {{ site.team_email }})
+for any questions about the Feedback Analytics program or the Touchpoints product.
 
 <div id="touchpoint-contact-form"></div>
 
