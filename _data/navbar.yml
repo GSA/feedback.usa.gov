@@ -9,7 +9,7 @@ menu:
     -
         text: Feedback Program
         id: services
-        href: /services
+        href: /services/
         permalink: /services/
         show_in_menu: true
         show_in_footer: false
@@ -35,14 +35,14 @@ menu:
     -
         text: Glossary
         id: faq
-        href: /glossary
+        href: /glossary/
         permalink: /glossary/
         show_in_menu: true
         show_in_footer: false
     -
         text: FAQ
         id: faq
-        href: /faq
+        href: /faq/
         permalink: /faq/
         show_in_menu: true
         show_in_footer: false
@@ -68,7 +68,7 @@ menu:
     -
         text: Contact
         id: contact
-        href: /contact
+        href: /contact/
         permalink: /contact
         show_in_menu: false
         show_in_footer: false
