@@ -1,74 +1,56 @@
 menu:
     -
-        text: Home
-        id: home
-        href: /
-        permalink: /
-        show_in_menu: false
+        text: About
+        id: about
+        href: /about/
+        permalink: /about/
+        show_in_menu: true
         show_in_footer: false
+        children:
+            -
+              text: 'Overview'
+              href: '#overview'
+              show_in_menu: false
+              show_in_footer: false
+            -
+              text: 'Program history'
+              id: services-touchpoints
+              href: '#history'
+              show_in_menu: false
+              show_in_footer: false
     -
-        text: Feedback Program
+        text: Services
         id: services
-        href: /services
+        href: /services/
         permalink: /services/
         show_in_menu: true
         show_in_footer: false
         children:
             -
-                text: 'About the program'
-                id: services-about
-                href: '#about'
-                show_in_menu: false
-                show_in_footer: false
-            -
                 text: 'Touchpoints'
-                id: services-touchpoints
+                id: services-about
                 href: '#touchpoints'
                 show_in_menu: false
                 show_in_footer: false
+
             -
-                text: 'Services'
-                id: services-team
+                text: 'CX support'
+                id: services-touchpoints
                 href: '#services'
                 show_in_menu: false
                 show_in_footer: false
+
     -
-        text: Glossary
-        id: faq
-        href: /glossary
-        permalink: /glossary/
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: FAQ
-        id: faq
-        href: /faq
-        permalink: /faq/
-        show_in_menu: true
-        show_in_footer: false
-        children:
-            -
-                text: 'Touchpoints'
-                id: faq-touchpoints
-                href: '#touchpoints'
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Feedback Data'
-                id: faq-data
-                href: '#feedback-data'
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'CX CAP Goal'
-                id: faq-cx
-                href: '#cx'
-                show_in_menu: false
-                show_in_footer: false
+      text: CX Glossary
+      id: glossary
+      href: /glossary/
+      permalink: /glossary/
+      show_in_menu: true
+      show_in_footer: false
     -
         text: Contact
         id: contact
-        href: /contact
-        permalink: /contact
+        href: /contact/
+        permalink: /contact/
         show_in_menu: false
         show_in_footer: false
