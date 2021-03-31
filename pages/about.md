@@ -16,8 +16,8 @@ quantitative and qualitative customer feedback.
 This includes developing methods to evaluate progress and supporting continuous, iterative improvements to service design and delivery.
 
 The program manages the
-[Touchpoints customer feedback tool](/services#products)
-and [provides support](/services#services) for federal agencies related to Customer Experience (CX) initiatives.
+[Touchpoints customer feedback tool]({{site.baseurl}}/services#products)
+and [provides support]({{site.baseurl}}/services#services) for federal agencies related to Customer Experience (CX) initiatives.
 
 The Feedback Analytics program is part of the
 [Data and Analytics Portfolio](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions#data)
