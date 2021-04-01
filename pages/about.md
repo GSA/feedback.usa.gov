@@ -7,8 +7,10 @@ nav_current_title: "About"
 permalink: /about/
 ---
 
-<a id="overview"></a>
-## Program overview
+<h2>
+  <a id="overview"></a>
+  Program overview
+</h2>
 
 The Feedback Analytics Program supports
 the government-wide collection and reporting of
@@ -24,7 +26,6 @@ The Feedback Analytics program is part of the
 within
 GSA's
 [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services).
-
 
 
 <a id="history"></a>
