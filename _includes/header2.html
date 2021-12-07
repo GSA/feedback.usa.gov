@@ -5,32 +5,28 @@
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
       <em class="usa-logo-text">
-        <a href="/"
-        title="Home"
-        aria-label="Home">
-        Feedback Analytics
-      </a>
-    </em>
+        <a href="/" title="Home" aria-label="Home">
+          Feedback Analytics
+        </a>
+      </em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
   </div>
-  <button class="usa-menu-btn">Menu</button>
-</div>
 
-<nav class="usa-nav">
-  <div class="usa-nav-inner">
-    <button class="usa-nav-close">
-      <img src="{{site.baseurl}}/assets/img/close.svg" alt="close">
-    </button>
-    <ul class="usa-nav-primary usa-accordion">
-      {% for item in site.data.navbar.menu %}
+  <nav class="usa-nav">
+    <div class="usa-nav-inner">
+      <button class="usa-nav-close">
+        <img src="{{site.baseurl}}/assets/img/close.svg" alt="close">
+      </button>
+      <ul class="usa-nav-primary usa-accordion">
+        {% for item in site.data.navbar.menu %}
         <li>
-          <a class="usa-nav-link" href="{{item.href}}">
-            <span>{{item.text}}</span>
+          <a class="usa-nav-link" href="{{ item.href }}">
+            {{ item.text }}
           </a>
         </li>
-      {% endfor %}
-    </ul>
-  </div>
-</nav>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
 </header>
-<div class="usa-overlay"></div>
-<main id="main-content"></main>
